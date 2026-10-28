@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TabletDestroyer
+  - TeleportPoint
+  - Panel
+  - Button
+  - Pillar
+  - Breakable
+  - BreakableFloor
+  - Ladder
+  - Interactible
+  - Guard
+  - Floor
+  - Door
+  - Fire
+  - MovingPlatform
+  - Checkpoint
+  - MMButton
+  - MMPlayButton
+  - BlockedDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostProcess
+  - Player
+  - BrokenObjects
+  - Invisible Collision
+  - Falling Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
