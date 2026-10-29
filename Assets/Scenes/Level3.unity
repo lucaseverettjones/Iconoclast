@@ -39,7 +39,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.488
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 471102340}
-  m_IndirectSpecularColor: {r: 0.022675281, g: 0.025018893, b: 0.025437418, a: 0.488}
+  m_IndirectSpecularColor: {r: 0.022675285, g: 0.0250189, b: 0.025437444, a: 0.488}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -122438,14 +122438,14 @@ MonoBehaviour:
   interactionText:
   - "Yeah, that\u2019s enough of that. Get out of here!"
   ambientText:
-  - "I got the best guard post, but it\u2019s still a guard post. "
+  - "I got the best guard post, but it\u2019s still a guard post."
   - What a strange garden this is...at least it looks nice.
-  - "I wonder what Tan\u2019kat is up to? "
+  - I wonder what my brother is up to?
   aggroText: What are you doing out here in the garden?
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 1059487641}
-  characterName: Verili Ma'on
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -235804,16 +235804,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionText:
-  - "Orilla may all look alike, but this isn\u2019t your place. "
+  - "Orilla may all look alike, but this isn\u2019t your place."
   ambientText:
   - "I got the best guard post, but it\u2019s still a guard post. "
   - 'What a strange garden this is...at least it looks nice. '
-  - "I wonder what Tan\u2019kat is up to? "
+  - 'I wonder what my brother is up to? '
   aggroText: "You\u2019re not a gardener, you don\u2019t have a rake!"
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 1059487641}
-  characterName: Fleris T'son
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}

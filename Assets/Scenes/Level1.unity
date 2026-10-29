@@ -6476,7 +6476,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionText:
   - Orilla, get back to the kitchen!
-  - Sa Tavit O'ana would have his morning meal.
+  - The Sa would have his morning meal.
   ambientText:
   - Guard duty is such a waste of my time.
   - Orilla clearly lack the intelligence to escape.
@@ -6485,7 +6485,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 353504446}
-  characterName: Lorell K'ran
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -101139,10 +101139,10 @@ MonoBehaviour:
   - I've got to prove myself to the Sa!
   - This door is forbidden, by order of the Sa!
   aggroText: 
-  isHostile: 1
+  isHostile: 0
   isDrunk: 0
   myPlayerController: {fileID: 353504446}
-  characterName: Saryo Dontis
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}

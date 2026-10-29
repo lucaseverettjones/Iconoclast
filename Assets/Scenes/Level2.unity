@@ -39,7 +39,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.308
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.27681464, g: 0.26251173, b: 0.24123603, a: 0.308}
+  m_IndirectSpecularColor: {r: 0.2768146, g: 0.26251173, b: 0.24123603, a: 0.308}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5626,7 +5626,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -18231,7 +18231,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -26929,7 +26929,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -27394,7 +27394,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionText:
   - "Sadly they don\u2019t actually let us kill you."
-  - 'Consider yourself lucky. Now get moving. '
+  - Consider yourself lucky. Now get moving.
   ambientText:
   - "Wish I didn\u2019t need guard experience."
   - I just want to join the military already.
@@ -27403,7 +27403,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Gloktis Klarat
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -31041,7 +31041,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -38120,7 +38120,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -42077,7 +42077,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -43176,7 +43176,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -49351,7 +49351,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -53636,7 +53636,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh480554
+  m_Name: pb_Mesh95086
   serializedVersion: 11
   m_SubMeshes: []
   m_Shapes:
@@ -83703,17 +83703,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionText:
-  - "Oh, look at you. You think you\u2019re sneaky? "
-  - "Well, I\u2019m putting a stop to that. Let\u2019s go. "
+  - "Oh, look at you. You think you\u2019re sneaky?"
+  - "Well, I\u2019m putting a stop to that. Let\u2019s go."
   ambientText:
   - Stupid dark passageway, stupid guard duty...
-  - 'They should have made Vitas guard this place... '
-  - 'My skills are being wasted on the back line... '
+  - They should have made someone else guard this place...
+  - My skills are being wasted on the back line...
   aggroText: "What do you think you\u2019re doing, Orilla?"
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Verili V'seer
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -89753,7 +89753,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -95873,13 +95873,13 @@ MonoBehaviour:
   - Alright, that's it. Your little adventure stops here.
   ambientText:
   - I heard they kill prisoners to make those tablets.
-  - We should go grab a drink once we're off duty, Lloktas.
-  - '*Sigh* Nothing ever happens around here, Atas.'
+  - We should go grab a drink once we're off duty..
+  - '*Sigh* Nothing ever happens around here..'
   aggroText: Hey! I see you, don't you think I don't!
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Vitas Sonla
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -104317,14 +104317,14 @@ MonoBehaviour:
   interactionText:
   - "I\u2019m not glad to see you, but at least something happened."
   ambientText:
-  - 'Lloktas, what are we even guarding again? '
+  - 'What are we even guarding again? '
   - No Orilla has ever escaped, why would it happen now?
   - "It\u2019s so boring in here. I wish something would happen."
   aggroText: "Look! An Orilla! Something\u2019s finally happening! "
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Atas Sareris
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -104665,7 +104665,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -108253,7 +108253,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -123934,7 +123934,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -127012,13 +127012,13 @@ MonoBehaviour:
   - 'Let me show you the way back to the kitchen. '
   ambientText:
   - So uh...how are you guys?
-  - 'What are you doing after work, Golkti? '
+  - 'What are you doing after work? '
   - 'Hey, I...uh, I forgot what I was going to say. '
   aggroText: 
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Tserata V'lor
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -129664,7 +129664,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -136939,7 +136939,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Serena Zetna
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -143754,7 +143754,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -150150,7 +150150,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -160241,7 +160241,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -162170,7 +162170,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -169818,7 +169818,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -188517,7 +188517,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -194662,7 +194662,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -195069,7 +195069,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -203072,7 +203072,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Llokas Donran
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -207168,7 +207168,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -210513,7 +210513,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -213372,7 +213372,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -216079,8 +216079,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionText:
-  - 'What? You...who are you? '
-  - "Tell my wife I...I don\u2019t feel so good. "
+  - What? You...who are you?
+  - "Tell my wife I...I don\u2019t feel so good."
   ambientText:
   - "I don\u2019t know...I mean, what was I doing again?"
   - 'So then I said to him... '
@@ -216089,7 +216089,7 @@ MonoBehaviour:
   isHostile: 0
   isDrunk: 1
   myPlayerController: {fileID: 57744094}
-  characterName: Tan'kat Ma'on
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -218771,7 +218771,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -223021,7 +223021,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -223449,7 +223449,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -226637,7 +226637,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -230331,7 +230331,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -232562,7 +232562,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -255135,13 +255135,13 @@ MonoBehaviour:
   - "Alright, you\u2019re coming with me. "
   ambientText:
   - "I heard Orilla can\u2019t even really think. "
-  - 'Some of the Orilla have better jobs than us. '
-  - Atas, what are you doing after your shift?
+  - Some of the Orilla have better jobs than us.
+  - What are you doing after your shift?
   aggroText: 
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Tan'on V'ris
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -267784,7 +267784,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -278501,7 +278501,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -328555,12 +328555,12 @@ MonoBehaviour:
   ambientText:
   - They should just put all the guards in the throne room.
   - This has got to be the most boring room in the palace.
-  - 'There are too many pillars in here, Vitas. '
+  - There are too many pillars in here.
   aggroText: Stop right there, you worthless Orilla!
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Lloktas V'kun
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -332056,7 +332056,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -337107,7 +337107,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -338060,7 +338060,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -342582,7 +342582,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -345202,12 +345202,12 @@ MonoBehaviour:
   ambientText:
   - 'Hey, why do they need three of us here? '
   - 'I counted the pillars once, there are 42 of them. '
-  - "Tan\u2019on, want to get some Skavo later? "
+  - 'Want to get some Skavo later? '
   aggroText: 'There are no Orilla assigned to this room! '
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: Atas Serela
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
@@ -349607,7 +349607,7 @@ MonoBehaviour:
   isHostile: 1
   isDrunk: 0
   myPlayerController: {fileID: 57744094}
-  characterName: 
+  characterName: Guard
   speechClips:
   - {fileID: 8300000, guid: a5b5cd6f99bdfac4698cb204fa594524, type: 3}
   - {fileID: 8300000, guid: 0bfcebad58225e643b763adeb31081c1, type: 3}
